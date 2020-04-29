@@ -1,0 +1,9 @@
+C:\Ankit\Personal\Target\MyWebApp\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Ankit\Personal\Target\MyWebApp\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ankit\Personal\Target\MyWebApp\Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Ankit\Personal\Target\MyWebApp\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+C:\Ankit\Personal\Target\MyWebApp\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Ankit\Personal\Target\MyWebApp\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Ankit\Personal\Target\MyWebApp\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Ankit\Personal\Target\MyWebApp\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Ankit\Personal\Target\MyWebApp\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
